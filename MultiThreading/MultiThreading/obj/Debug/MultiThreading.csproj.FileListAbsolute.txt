@@ -1,0 +1,10 @@
+C:\Users\maher.bensaid\source\repos\MultiThreading\MultiThreading\bin\Debug\MultiThreading.exe.config
+C:\Users\maher.bensaid\source\repos\MultiThreading\MultiThreading\bin\Debug\MultiThreading.exe
+C:\Users\maher.bensaid\source\repos\MultiThreading\MultiThreading\bin\Debug\MultiThreading.pdb
+C:\Users\maher.bensaid\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\maher.bensaid\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.exe
+C:\Users\maher.bensaid\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.pdb
+C:\Users\maher.bensaid\source\repos\MultiThreading\MultiThreading\obj\Debug\MultiThreading.csprojResolveAssemblyReference.cache
+C:\Users\maher.bensaid\source\repos\MultiThreading\MultiThreading\bin\Debug\nunit.framework.dll
+C:\Users\maher.bensaid\source\repos\MultiThreading\MultiThreading\bin\Debug\nunit.framework.pdb
+C:\Users\maher.bensaid\source\repos\MultiThreading\MultiThreading\bin\Debug\nunit.framework.xml
